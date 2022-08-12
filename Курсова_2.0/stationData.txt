@@ -1,0 +1,7 @@
+property value
+A95 28
+A98 32
+Diesel 25
+Snacks 46
+Drink 14
+STO 526
